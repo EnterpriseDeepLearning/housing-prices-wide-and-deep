@@ -98,7 +98,7 @@ id,bedrooms_total,baths_total,acres,sq_ft_tot_fn,tax_gross_amount,assessment_val
 97,3,1,64.7,2460,8776,553520,1,10024 VT. RT.12,Barnard,Attached,1800,1.5,No,No,,,,6,Yes,Yes,Yes,No,No,,,Yes,332500
 98,3,2,4.3,1764,5964,312450,2,19 Garnet Hill,Barnard,Attached,1975,2,Yes,No,,,No,8,Yes,No,,,No,,Interior,Yes,385000
 99,3,2,0.24,1782,5748,274900,0,13 High Street,Woodstock,,1890,2,No,No,Brook,,No,7,No,Yes,Yes,No,No,,Walkout,Yes,357500
-100,4,4,1.06,3184,11391,458600,2,4 Highland Avenue Extension,Woodstock,Attached,1986,4+,Yes,No,,,,11,Yes,No,,,No,,Walkout,No,459500
+100,4,4,1.06,3184,11391,458600,2,4 Highland Avenue Extension,Woodstock,Attached,1986,4,Yes,No,,,,11,Yes,No,,,No,,Walkout,No,459500
 101,3,3,0.04,1844,7139,339000,0,32 The Green,Woodstock,,1803,2,No,No,,,No,9,No,No,,No,No,,Interior,Yes,460000
 102,4,2,0.2,2048,6199,365900,1,29 HIGH STREET,Woodstock,Under,1880,3,No,No,,,No,8,Yes,No,,No,No,,Interior,Yes,345000
 103,3,3,7.2,2167,10602,507100,2,136 English Mills Way,Woodstock,Attached,1997,1.5,Yes,No,Brook,,No,7,Yes,No,Yes,No,Yes,,Interior,Yes,370000
