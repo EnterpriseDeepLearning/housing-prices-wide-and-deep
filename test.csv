@@ -6,7 +6,7 @@ id,bedrooms_total,baths_total,acres,sq_ft_tot_fn, tax_gross_amount,assessment_va
 211,3,2,9,2668,6384,350680,2,75 Rudge Road,Pomfret,Attached,1965,1,Yes,No,,,No,8,Yes,No,,,No,,Walkout,No,
 212,4,2,0.84,1503,7633,451270,0,6198 Stage,Barnard,,1931,2,Unknown,Unknown,Lake,160,,8,No,Unknown,,No,No,,,No,
 213,4,2,0.29,3081,8706,416400,0,5 River Street,Woodstock,,1890,1.5,No,No,,,No,9,No,No,,,No,,Interior,Yes,
-214,4,4,320.15,2886, -   ,,2,1709 Wild Apple Road,Pomfret,Attached,2006,2.5,Yes,No,,,No,8,Yes,No,Yes,Yes,Yes,,Interior,Yes,
+214,4,4,320.15,2886,,,2,1709 Wild Apple Road,Pomfret,Attached,2006,2.5,Yes,No,,,No,8,Yes,No,Yes,Yes,Yes,,Interior,Yes,
 215,4,3,0.23,2560,8706,431500,0,4 Church Street,Woodstock,,1823,1.5,No,No,,,,10,No,No,,,No,,,Yes,
 216,3,3,20.5,2784,13458,643700,3,343 Spruce way,Woodstock,Attached,1990,3,Yes,No,,,,11,Yes,No,Yes,No,Yes,,Walkout,Yes,
 217,3,2,9,2229,9161,479970,1,2510 North Road,Barnard,Attached,1880,1.5,Yes,No,,,No,5,Yes,No,Yes,,Yes,,Walk-up,No,
