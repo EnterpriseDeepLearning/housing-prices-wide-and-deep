@@ -1,7 +1,7 @@
 id,bedrooms_total,baths_total,acres,sq_ft_tot_fn, tax_gross_amount,assessment_value_town,garage_capacity,address,city,garage_type,year_built,total_stories,surveyed,seasonal,water_body_type,water_frontage_length,short_sale,rooms_total,garage,flood_zone,easements,current_use,covenants,common_land_acres,basement_access_type,basement,price_closed
 138,3,3,0.75,1765,6392,305700,1,25 Prospect Street,Woodstock,Attached,1820,1.5,No,No,,,,8,Yes,No,,,No,,Walkout,Yes,329000
-139,5,4,88.8,5564, -   ,6575800,2,9501 Sincerbeaux,Woodstock,Detached,1805,2,Yes,No,Pond,,No,11,Yes,No,Yes,Yes,Yes,,Walkout,Yes,3000000
-140,4,4,12,4163, -   ,770040,2,5685 Route 12,Barnard,Attached,2007,2,Yes,No,Brook,301,,11,Yes,No,,No,No,,Walkout,Yes,775000
+139,5,4,88.8,5564,,6575800,2,9501 Sincerbeaux,Woodstock,Detached,1805,2,Yes,No,Pond,,No,11,Yes,No,Yes,Yes,Yes,,Walkout,Yes,3000000
+140,4,4,12,4163,,770040,2,5685 Route 12,Barnard,Attached,2007,2,Yes,No,Brook,301,,11,Yes,No,,No,No,,Walkout,Yes,775000
 141,5,5,53.9,6648,17519,917830,3,16 Midsomer Meadows Lane,Barnard,Attached,2008,2.5,Yes,No,Brook,,No,15,Yes,No,,No,No,,Interior,Yes,550000
 142,4,5,6.4,4734,23339,1135100,2,1043 Noah Wood Road,Woodstock,Detached,1998,1.5,Yes,No,,,No,12,Yes,No,,,No,,Walkout,Yes,1090000
 143,5,3,14.1,2962,11850,825200,2,3300 Hartland Hill Road,Woodstock,Attached,1996,2,Yes,No,,,No,9,Yes,No,,No,No,,Walk-up,Yes,610000
@@ -31,7 +31,7 @@ id,bedrooms_total,baths_total,acres,sq_ft_tot_fn, tax_gross_amount,assessment_va
 167,4,4,10.86,3960,17171,890000,3,739 Westerdale Rd,Woodstock,Attached,2003,1.5,Yes,No,Brook,,No,11,Yes,No,,,No,,Interior,Yes,835000
 168,3,3,0.25,2851,9735,504600,1,3 River Street,Woodstock,Detached,1870,2,Unknown,No,,,No,10,Yes,No,,,No,,Interior,Yes,550000
 169,5,4,12.95,3538,19038,907100,3,1138 Peterkin Hill Rd,Woodstock,Attached,2011,2,Yes,No,,,No,11,Yes,No,,,Yes,,Interior,Yes,830000
-170,3,4,181,3919, -   ,3726200,2,7500 Happy Valley Road,Woodstock,Attached,2000,1.5,Yes,No,,,,10,Yes,No,Yes,Yes,Yes,,Walkout,Yes,4150000
+170,3,4,181,3919,,3726200,2,7500 Happy Valley Road,Woodstock,Attached,2000,1.5,Yes,No,,,,10,Yes,No,Yes,Yes,Yes,,Walkout,Yes,4150000
 171,3,3,13.4,1934,9668,694800,2,1370 Westerdale,Woodstock,Attached,1988,2,Yes,No,,,No,5,Yes,No,,No,No,,Interior,Yes,465000
 172,5,2,0.2,3196,6619,311500,0,24 High Street,Woodstock,,1840,2.5,Unknown,No,,,No,9,No,No,,No,No,,Interior,Yes,305000
 173,6,5,56,3348,14962,1024540,0,166 Old Mt. Hunger Road,Barnard,,1810,2,No,No,Pond,100,No,11,No,No,Yes,Yes,Unknown,,Interior,Yes,935000
